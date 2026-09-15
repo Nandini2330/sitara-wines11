@@ -1,0 +1,155 @@
+{
+  "category": "Whiskey",
+  "slug": "whiskey",
+  "tagline": "Blended malts & Indian classics",
+  "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930548/sitara_wines/whiskey/Blenders_Pride.png",
+  "products": [
+    {
+      "id": "whk-01",
+      "name": "Blenders Pride",
+      "note": "Blended Grain",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930548/sitara_wines/whiskey/Blenders_Pride.png"
+    },
+    {
+      "id": "whk-02",
+      "name": "Royal Green",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930579/sitara_wines/whiskey/Royal_Green.png"
+    },
+    {
+      "id": "whk-03",
+      "name": "Classic Gold",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930550/sitara_wines/whiskey/Classic_Gold.png"
+    },
+    {
+      "id": "whk-04",
+      "name": "McDowell's No.1",
+      "note": "Original",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930566/sitara_wines/whiskey/McDowell_s_No_1.png"
+    },
+    {
+      "id": "whk-05",
+      "name": "DSP Black",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930553/sitara_wines/whiskey/DSP_Black.png"
+    },
+    {
+      "id": "whk-06",
+      "name": "Darbi",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930556/sitara_wines/whiskey/Darbi.png"
+    },
+    {
+      "id": "whk-07",
+      "name": "Imperial Blue",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930564/sitara_wines/whiskey/Imperial_Blue.png"
+    },
+    {
+      "id": "whk-08",
+      "name": "Royal Stag",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930581/sitara_wines/whiskey/Royal_Stag.png"
+    },
+    {
+      "id": "whk-09",
+      "name": "Royal Challenge",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930577/sitara_wines/whiskey/Royal_Challenge.png"
+    },
+    {
+      "id": "whk-10",
+      "name": "Officer's Choice",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930571/sitara_wines/whiskey/Officer_s_Choice.png"
+    },
+    {
+      "id": "whk-11",
+      "name": "Antiquity Blue",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930543/sitara_wines/whiskey/Antiquity_Blue.png"
+    },
+    {
+      "id": "whk-12",
+      "name": "Rockford Reserve",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930574/sitara_wines/whiskey/Rockford_Reserve.png"
+    },
+    {
+      "id": "whk-13",
+      "name": "Director's Special",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930559/sitara_wines/whiskey/Director_s_Special.png"
+    },
+    {
+      "id": "whk-14",
+      "name": "Iconic White",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930561/sitara_wines/whiskey/Iconic_White.png"
+    },
+    {
+      "id": "whk-15",
+      "name": "Sterling Reserve",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930583/sitara_wines/whiskey/Sterling_Reserve.png"
+    },
+    {
+      "id": "whk-16",
+      "name": "All Seasons",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930541/sitara_wines/whiskey/All_Seasons.png"
+    },
+    {
+      "id": "whk-17",
+      "name": "8 PM",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930538/sitara_wines/whiskey/8_PM.png"
+    },
+    {
+      "id": "whk-18",
+      "name": "Oaksmith Gold / Silver",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930569/sitara_wines/whiskey/Oaksmith_Gold_Silver.png"
+    },
+    {
+      "id": "whk-19",
+      "name": "100 Pipers",
+      "note": "Blended Scotch",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930536/sitara_wines/whiskey/100_Pipers.png"
+    },
+    {
+      "id": "whk-20",
+      "name": "Teacher's",
+      "note": "Highland Cream",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930586/sitara_wines/whiskey/Teacher_s.png"
+    },
+    {
+      "id": "whk-21",
+      "name": "Ballantine's Finest",
+      "note": "Blended Scotch",
+      "subcategory": "Classic Whiskey",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930546/sitara_wines/whiskey/Ballantine_s_Finest.png"
+    }
+  ]
+}

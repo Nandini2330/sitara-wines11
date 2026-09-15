@@ -1,0 +1,29 @@
+{
+  "category": "Scotch",
+  "slug": "scotch",
+  "tagline": "Signature blends & liqueurs",
+  "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930590/sitara_wines/Scotch/Signature.png",
+  "products": [
+    {
+      "id": "scotch-01",
+      "name": "Signature",
+      "note": "Rare Blend",
+      "subcategory": "Scotch",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930590/sitara_wines/Scotch/Signature.png"
+    },
+    {
+      "id": "scotch-02",
+      "name": "Vat 69",
+      "note": "Blended Scotch Whisky",
+      "subcategory": "Scotch",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930593/sitara_wines/Scotch/Vat_69.png"
+    },
+    {
+      "id": "scotch-03",
+      "name": "J\u00e4germeister",
+      "note": "Herbal Liqueur",
+      "subcategory": "Liqueur",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930588/sitara_wines/Scotch/J_germeister.png"
+    }
+  ]
+}

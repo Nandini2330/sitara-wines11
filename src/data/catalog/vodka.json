@@ -1,0 +1,43 @@
+{
+  "category": "Vodka",
+  "slug": "vodka",
+  "tagline": "Clean, crisp & smooth spirits",
+  "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930595/sitara_wines/vodka/Absolut.png",
+  "products": [
+    {
+      "id": "vodka-01",
+      "name": "Smirnoff",
+      "note": "Triple Distilled",
+      "subcategory": "Vodka",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930603/sitara_wines/vodka/Smirnoff.png"
+    },
+    {
+      "id": "vodka-02",
+      "name": "Romanov",
+      "note": "Classic Grain",
+      "subcategory": "Vodka",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930600/sitara_wines/vodka/Romanov.png"
+    },
+    {
+      "id": "vodka-03",
+      "name": "Absolut",
+      "note": "Swedish Premium",
+      "subcategory": "Vodka",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930595/sitara_wines/vodka/Absolut.png"
+    },
+    {
+      "id": "vodka-04",
+      "name": "White Mischief",
+      "note": "Triple Filtered",
+      "subcategory": "Vodka",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930605/sitara_wines/vodka/White_Mischief.png"
+    },
+    {
+      "id": "vodka-05",
+      "name": "Dapoli",
+      "note": "Craft Vodka",
+      "subcategory": "Vodka",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930598/sitara_wines/vodka/Dapoli.png"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "category": "Rum",
+  "slug": "rum",
+  "tagline": "Dark, spiced & timeless",
+  "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930618/sitara_wines/rum/Old_Monk_XXX.png",
+  "products": [
+    {
+      "id": "rum-01",
+      "name": "Old Monk XXX",
+      "note": "Classic Vatted Dark Rum",
+      "subcategory": "Rum",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930618/sitara_wines/rum/Old_Monk_XXX.png"
+    },
+    {
+      "id": "rum-02",
+      "name": "Bacardi Black",
+      "note": "Premium Dark Rum",
+      "subcategory": "Rum",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930610/sitara_wines/rum/Bacardi_Black.png"
+    },
+    {
+      "id": "rum-03",
+      "name": "Alpha Bull",
+      "note": "Craft Dark Rum",
+      "subcategory": "Rum",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930608/sitara_wines/rum/Alpha_Bull.png"
+    },
+    {
+      "id": "rum-04",
+      "name": "McDowell's No.1 Dark Rum",
+      "note": "Celebration Rum",
+      "subcategory": "Rum",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930615/sitara_wines/rum/McDowell_s_No_1_Dark_Rum.png"
+    },
+    {
+      "id": "rum-05",
+      "name": "Captain Morgan",
+      "note": "Spiced Rum",
+      "subcategory": "Rum",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930613/sitara_wines/rum/Captain_Morgan.png"
+    }
+  ]
+}

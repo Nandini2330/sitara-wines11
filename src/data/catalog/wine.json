@@ -1,0 +1,62 @@
+{
+  "category": "Wine",
+  "slug": "wine",
+  "tagline": "Everyday & Estate Indian Wines",
+  "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930442/sitara_wines/wines/Sula.png",
+  "products": [
+    {
+      "id": "wine-01",
+      "name": "Sula",
+      "note": "Estate Collection",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930442/sitara_wines/wines/Sula.png"
+    },
+    {
+      "id": "wine-02",
+      "name": "Sula Cabernet Shiraz",
+      "note": "Red Wine",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930440/sitara_wines/wines/Sula_Cabernet_Shiraz.png"
+    },
+    {
+      "id": "wine-03",
+      "name": "Samara",
+      "note": "Red / White Wine",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930438/sitara_wines/wines/Samara.png"
+    },
+    {
+      "id": "wine-04",
+      "name": "Fratelli",
+      "note": "Estate Red & White",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930428/sitara_wines/wines/Fratelli.png"
+    },
+    {
+      "id": "wine-05",
+      "name": "Fratelli Kyra",
+      "note": "Premium Red",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930423/sitara_wines/wines/Fratelli_Kyra.png"
+    },
+    {
+      "id": "wine-06",
+      "name": "Fratelli Ziva",
+      "note": "Aromatic White & Red",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930426/sitara_wines/wines/Fratelli_Ziva.png"
+    },
+    {
+      "id": "wine-07",
+      "name": "York All Rounder",
+      "note": "Nashik Reserve",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930445/sitara_wines/wines/York_All_Rounder.png"
+    },
+    {
+      "id": "wine-08",
+      "name": "Port 10000",
+      "note": "Fortified Port Wine",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930436/sitara_wines/wines/Port_10000.png"
+    },
+    {
+      "id": "wine-09",
+      "name": "Dia",
+      "note": "Sparkling Wine",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930421/sitara_wines/wines/Dia.png"
+    }
+  ]
+}
