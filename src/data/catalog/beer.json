@@ -13,38 +13,38 @@
     },
     {
       "id": "beer-02",
-      "name": "Kingfisher Strong",
+      "name": "Tuborg Classic",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930504/sitara_wines/beer/Kingfisher_Strong_2021.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930528/sitara_wines/beer/Tuborg_Classic_2024.png"
     },
     {
       "id": "beer-03",
-      "name": "Kingfisher Mild",
+      "name": "Budweiser Mild",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930499/sitara_wines/beer/Kingfisher_Mild_2024.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930463/sitara_wines/beer/Budweiser_Mild_2021.png"
     },
     {
       "id": "beer-04",
-      "name": "Kingfisher Smooth",
+      "name": "Carlsberg Mild",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930502/sitara_wines/beer/Kingfisher_Smooth_2023.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930470/sitara_wines/beer/Carlsberg_Mild_2021.png"
     },
     {
       "id": "beer-05",
-      "name": "Kingfisher Ultra",
-      "note": "",
+      "name": "London Pilsner Mild",
+      "note": "LP Mild",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930507/sitara_wines/beer/Kingfisher_Ultra_2022.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930518/sitara_wines/beer/London_Pilsner_Mild_2024.png"
     },
     {
       "id": "beer-06",
-      "name": "Kingfisher Ultra Max",
+      "name": "Royal Challenge",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930510/sitara_wines/beer/Kingfisher_Ultra_Max_2021.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930523/sitara_wines/beer/Royal_Challenge_2024.png"
     },
     {
       "id": "beer-07",
@@ -62,10 +62,10 @@
     },
     {
       "id": "beer-09",
-      "name": "Tuborg Classic",
+      "name": "Kingfisher Strong",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930528/sitara_wines/beer/Tuborg_Classic_2024.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930504/sitara_wines/beer/Kingfisher_Strong_2021.png"
     },
     {
       "id": "beer-10",
@@ -90,10 +90,10 @@
     },
     {
       "id": "beer-13",
-      "name": "London Pilsner Mild",
-      "note": "LP Mild",
+      "name": "Kingfisher Ultra",
+      "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930518/sitara_wines/beer/London_Pilsner_Mild_2024.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930507/sitara_wines/beer/Kingfisher_Ultra_2022.png"
     },
     {
       "id": "beer-14",
@@ -104,10 +104,10 @@
     },
     {
       "id": "beer-15",
-      "name": "Carlsberg Mild",
+      "name": "Kingfisher Smooth",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930470/sitara_wines/beer/Carlsberg_Mild_2021.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930502/sitara_wines/beer/Kingfisher_Smooth_2023.png"
     },
     {
       "id": "beer-16",
@@ -118,17 +118,17 @@
     },
     {
       "id": "beer-17",
-      "name": "Budweiser Mild",
+      "name": "Kingfisher Mild",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930463/sitara_wines/beer/Budweiser_Mild_2021.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930499/sitara_wines/beer/Kingfisher_Mild_2024.png"
     },
     {
       "id": "beer-18",
-      "name": "Royal Challenge",
+      "name": "Kingfisher Ultra Max",
       "note": "",
       "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930523/sitara_wines/beer/Royal_Challenge_2024.png"
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930510/sitara_wines/beer/Kingfisher_Ultra_Max_2021.png"
     },
     {
       "id": "beer-19",

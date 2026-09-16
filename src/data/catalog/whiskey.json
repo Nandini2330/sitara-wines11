@@ -150,6 +150,27 @@
       "note": "Blended Scotch",
       "subcategory": "Classic Whiskey",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930546/sitara_wines/whiskey/Ballantine_s_Finest.png"
+    },
+    {
+      "id": "whk-22",
+      "name": "Royal Green",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": ""
+    },
+    {
+      "id": "whk-23",
+      "name": "Drambeel",
+      "note": "",
+      "subcategory": "Classic Whiskey",
+      "image": ""
+    },
+    {
+      "id": "whk-24",
+      "name": "Monkey Shoulder",
+      "note": "Blended Malt Scotch",
+      "subcategory": "Classic Whiskey",
+      "image": ""
     }
   ]
 }

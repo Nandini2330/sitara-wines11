@@ -118,6 +118,16 @@ export default function CatalogCard({ product, onWishlistToggle }) {
                 filter: "drop-shadow(0 14px 22px rgba(0,0,0,0.25))",
               }}
             />
+          ) : product.image === "" || product.image === null ? (
+            <div
+              className="blank-image-placeholder"
+              style={{
+                width: "88%",
+                height: "94%",
+                display: "block",
+              }}
+              aria-hidden="true"
+            />
           ) : (
             <BottleImage
               type={product.bottleType || "redWine"}

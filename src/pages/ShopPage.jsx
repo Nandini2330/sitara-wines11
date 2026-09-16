@@ -454,6 +454,8 @@ export default function ShopPage() {
                                 style={{ maxHeight: "100%", maxWidth: "100%", objectFit: "contain", filter: "drop-shadow(0 4px 6px rgba(0,0,0,0.2))" }}
                                 onError={(e) => { e.currentTarget.style.display = 'none' }}
                               />
+                            ) : p.image === "" || p.image === null ? (
+                              <div style={{ width: "100%", height: "100%" }} aria-hidden="true" />
                             ) : (
                               <BottleImage type={p.bottleType} name={p.name} />
                             )}

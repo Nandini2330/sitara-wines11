@@ -192,6 +192,14 @@ function getProductProfile(name, catSlug) {
       region = "HERITAGE"
       basePrice = 2400
       rating = 4.2
+    } else if (n.includes("monkey")) {
+      bottleType = "whiskey"
+      type = "BLENDED MALT"
+      grape = "SCOTCH WHISKY"
+      country = "SCOTLAND"
+      region = "SPEYSIDE"
+      basePrice = 4400
+      rating = 4.5
     }
 
     return {
@@ -259,7 +267,7 @@ function seeded(seedStr) {
 }
 
 function enrichCategory(cat) {
-  const products = cat.products.map((p) => {
+  const products = cat.products.map((p, index) => {
     const profile = getProductProfile(p.name, cat.slug)
     const h = seeded(p.id)
     const variance = ((h % 9) - 4) * 50
@@ -281,7 +289,7 @@ function enrichCategory(cat) {
       price,
       rating,
       vivinoScore: rating.toFixed(1),
-      popularity: (h % 100) + 1,
+      popularity: 100 - index,
     }
   })
 
