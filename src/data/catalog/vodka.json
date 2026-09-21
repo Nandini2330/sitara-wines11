@@ -6,17 +6,17 @@
   "products": [
     {
       "id": "vodka-01",
-      "name": "Smirnoff",
-      "note": "Triple Distilled",
-      "subcategory": "Vodka",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930603/sitara_wines/vodka/Smirnoff.png"
-    },
-    {
-      "id": "vodka-02",
       "name": "Romanov",
       "note": "Classic Grain",
       "subcategory": "Vodka",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930600/sitara_wines/vodka/Romanov.png"
+    },
+    {
+      "id": "vodka-02",
+      "name": "Smirnoff",
+      "note": "Triple Distilled",
+      "subcategory": "Vodka",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930603/sitara_wines/vodka/Smirnoff.png"
     },
     {
       "id": "vodka-03",
@@ -38,6 +38,20 @@
       "note": "Craft Vodka",
       "subcategory": "Vodka",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930598/sitara_wines/vodka/Dapoli.png"
+    },
+    {
+      "id": "vodka-06",
+      "name": "Grand Master",
+      "note": "",
+      "subcategory": "Vodka",
+      "image": ""
+    },
+    {
+      "id": "vodka-07",
+      "name": "Master Delight",
+      "note": "",
+      "subcategory": "Vodka",
+      "image": ""
     }
   ]
 }
