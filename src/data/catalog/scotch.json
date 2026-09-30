@@ -9,35 +9,35 @@
       "name": "Monkey Shoulder",
       "note": "Blended Malt Scotch",
       "subcategory": "Scotch",
-      "image": ""
+      "image": "/Scotch/Monkey_Shoulder.png"
     },
     {
       "id": "scotch-the-glenlivet",
       "name": "The Glenlivet",
       "note": "Single Malt Scotch",
       "subcategory": "Scotch",
-      "image": ""
+      "image": "/Scotch/The_Glenlivet.png"
     },
     {
       "id": "scotch-jack-daniels",
       "name": "Jack Daniel's",
       "note": "Tennessee Whiskey",
       "subcategory": "Scotch",
-      "image": ""
+      "image": "/Scotch/Jack_Daniels.png"
     },
     {
       "id": "scotch-dalmore",
       "name": "Dalmore",
       "note": "Highland Single Malt",
       "subcategory": "Scotch",
-      "image": ""
+      "image": "/Scotch/Dalmore.png"
     },
     {
       "id": "scotch-jim-beam",
       "name": "Jim Beam",
       "note": "Kentucky Straight Bourbon",
       "subcategory": "Scotch",
-      "image": ""
+      "image": "/Scotch/Jim_Beam.png"
     },
     {
       "id": "scotch-01",
