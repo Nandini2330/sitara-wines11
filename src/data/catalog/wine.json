@@ -5,28 +5,16 @@
   "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930442/sitara_wines/wines/Sula.png",
   "products": [
     {
-      "id": "wine-01",
-      "name": "Sula",
-      "note": "Estate Collection",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930442/sitara_wines/wines/Sula.png"
-    },
-    {
-      "id": "wine-02",
-      "name": "Sula Cabernet Shiraz",
-      "note": "Red Wine",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930440/sitara_wines/wines/Sula_Cabernet_Shiraz.png"
-    },
-    {
-      "id": "wine-03",
-      "name": "Samara",
-      "note": "Red / White Wine",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930438/sitara_wines/wines/Samara.png"
-    },
-    {
       "id": "wine-04",
       "name": "Fratelli",
       "note": "Estate Red & White",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930428/sitara_wines/wines/Fratelli.png"
+    },
+    {
+      "id": "wine-01",
+      "name": "Sula",
+      "note": "Estate Collection",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930442/sitara_wines/wines/Sula.png"
     },
     {
       "id": "wine-05",
@@ -39,6 +27,18 @@
       "name": "Fratelli Ziva",
       "note": "Aromatic White & Red",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930426/sitara_wines/wines/Fratelli_Ziva.png"
+    },
+    {
+      "id": "wine-02",
+      "name": "Sula Cabernet Shiraz",
+      "note": "Red Wine",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930440/sitara_wines/wines/Sula_Cabernet_Shiraz.png"
+    },
+    {
+      "id": "wine-03",
+      "name": "Samara",
+      "note": "Red / White Wine",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930438/sitara_wines/wines/Samara.png"
     },
     {
       "id": "wine-07",

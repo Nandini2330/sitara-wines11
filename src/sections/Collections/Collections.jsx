@@ -17,7 +17,7 @@ export default function Collections() {
         catalog.find((c) => c.slug === "wine")?.products[0],
         catalog.find((c) => c.slug === "beer")?.products[0],
         catalog.find((c) => c.slug === "whiskey")?.products[0],
-        catalog.find((c) => c.slug === "scotch")?.products[0],
+        catalog.find((c) => c.slug === "scotch")?.products.find((p) => p.image) || catalog.find((c) => c.slug === "scotch")?.products[0],
       ].filter(Boolean),
     },
     {
@@ -35,7 +35,7 @@ export default function Collections() {
       label: t("insiderPicks"),
       getItems: () => [
         catalog.find((c) => c.slug === "whiskey")?.products[1],
-        catalog.find((c) => c.slug === "scotch")?.products[1],
+        catalog.find((c) => c.slug === "scotch")?.products.filter((p) => p.image)[1] || catalog.find((c) => c.slug === "scotch")?.products[1],
         catalog.find((c) => c.slug === "vodka")?.products[1],
         catalog.find((c) => c.slug === "rum")?.products[1],
       ].filter(Boolean),

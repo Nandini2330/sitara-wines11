@@ -12,25 +12,46 @@
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930496/sitara_wines/beer/Kingfisher_2022.png"
     },
     {
+      "id": "beer-07",
+      "name": "Tuborg Strong",
+      "note": "",
+      "subcategory": "Classic Beer",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930528/sitara_wines/beer/Tuborg_Classic_2024.png"
+    },
+    {
+      "id": "beer-16",
+      "name": "Budweiser Magnum",
+      "note": "Strong",
+      "subcategory": "Classic Beer",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930460/sitara_wines/beer/Budweiser_Magnum_2023.png"
+    },
+    {
+      "id": "beer-14",
+      "name": "Carlsberg Elephant Strong",
+      "note": "Strong",
+      "subcategory": "Classic Beer",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930467/sitara_wines/beer/Carlsberg_Elephant_2022.png"
+    },
+    {
+      "id": "beer-12",
+      "name": "London Pilsner Strong",
+      "note": "LP Strong",
+      "subcategory": "Classic Beer",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930520/sitara_wines/beer/London_Pilsner_Strong_2021.png"
+    },
+    {
+      "id": "beer-18",
+      "name": "Royal Challenge",
+      "note": "",
+      "subcategory": "Classic Beer",
+      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930523/sitara_wines/beer/Royal_Challenge_2024.png"
+    },
+    {
       "id": "beer-02",
       "name": "Kingfisher Strong",
       "note": "",
       "subcategory": "Classic Beer",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930504/sitara_wines/beer/Kingfisher_Strong_2021.png"
-    },
-    {
-      "id": "beer-03",
-      "name": "Kingfisher Mild",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930499/sitara_wines/beer/Kingfisher_Mild_2024.png"
-    },
-    {
-      "id": "beer-04",
-      "name": "Kingfisher Smooth",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930502/sitara_wines/beer/Kingfisher_Smooth_2023.png"
     },
     {
       "id": "beer-05",
@@ -45,90 +66,6 @@
       "note": "",
       "subcategory": "Classic Beer",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930510/sitara_wines/beer/Kingfisher_Ultra_Max_2021.png"
-    },
-    {
-      "id": "beer-07",
-      "name": "Tuborg Strong",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930528/sitara_wines/beer/Tuborg_Classic_2024.png"
-    },
-    {
-      "id": "beer-08",
-      "name": "Tuborg Mild",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930534/sitara_wines/beer/Tuborg_Mild_2022.png"
-    },
-    {
-      "id": "beer-09",
-      "name": "Tuborg Classic",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930528/sitara_wines/beer/Tuborg_Classic_2024.png"
-    },
-    {
-      "id": "beer-10",
-      "name": "Tuborg Icedraft",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930530/sitara_wines/beer/Tuborg_Icedraft_2023.png"
-    },
-    {
-      "id": "beer-11",
-      "name": "London Pilsner",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930515/sitara_wines/beer/London_Pilsner_2022.png"
-    },
-    {
-      "id": "beer-12",
-      "name": "London Pilsner Strong",
-      "note": "LP Strong",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930520/sitara_wines/beer/London_Pilsner_Strong_2021.png"
-    },
-    {
-      "id": "beer-13",
-      "name": "London Pilsner Mild",
-      "note": "LP Mild",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930518/sitara_wines/beer/London_Pilsner_Mild_2024.png"
-    },
-    {
-      "id": "beer-14",
-      "name": "Carlsberg Elephant Strong",
-      "note": "Strong",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930467/sitara_wines/beer/Carlsberg_Elephant_2022.png"
-    },
-    {
-      "id": "beer-15",
-      "name": "Carlsberg Mild",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930470/sitara_wines/beer/Carlsberg_Mild_2021.png"
-    },
-    {
-      "id": "beer-16",
-      "name": "Budweiser Magnum",
-      "note": "Strong",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930460/sitara_wines/beer/Budweiser_Magnum_2023.png"
-    },
-    {
-      "id": "beer-17",
-      "name": "Budweiser Mild",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930463/sitara_wines/beer/Budweiser_Mild_2021.png"
-    },
-    {
-      "id": "beer-18",
-      "name": "Royal Challenge",
-      "note": "",
-      "subcategory": "Classic Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930523/sitara_wines/beer/Royal_Challenge_2024.png"
     },
     {
       "id": "beer-19",
@@ -194,13 +131,6 @@
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930477/sitara_wines/beer/Gorilla_OG_Hard.png"
     },
     {
-      "id": "beer-28",
-      "name": "IBC Enzo",
-      "note": "",
-      "subcategory": "Premium Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930488/sitara_wines/beer/IBC_Enzo.png"
-    },
-    {
       "id": "beer-29",
       "name": "IBC Wituno",
       "note": "",
@@ -213,27 +143,6 @@
       "note": "",
       "subcategory": "Premium Beer",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930451/sitara_wines/beer/Bira_Boom_Super_Strong.png"
-    },
-    {
-      "id": "beer-31",
-      "name": "Bira White",
-      "note": "",
-      "subcategory": "Premium Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930456/sitara_wines/beer/Bira_White.png"
-    },
-    {
-      "id": "beer-32",
-      "name": "Bira Blonde",
-      "note": "",
-      "subcategory": "Premium Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930448/sitara_wines/beer/Bira_Blonde.png"
-    },
-    {
-      "id": "beer-33",
-      "name": "Bira Gold",
-      "note": "",
-      "subcategory": "Premium Beer",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930453/sitara_wines/beer/Bira_Gold.png"
     },
     {
       "id": "beer-34",

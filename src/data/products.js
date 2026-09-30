@@ -11,16 +11,6 @@ export const products = [
     image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&q=80",
   },
   {
-    id: 2,
-    brand: "GROVER ZAMPA",
-    name: "La Réserve Cabernet Sauvignon",
-    price: 1450,
-    rating: 5,
-    category: "Red Wine",
-    region: "Nandi Hills, India",
-    image: "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=600&q=80",
-  },
-  {
     id: 3,
     brand: "FRATELLI",
     name: "Fratelli Sette",
@@ -30,16 +20,6 @@ export const products = [
     region: "Akluj, India",
     tag: "Premium",
     image: "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=600&q=80",
-  },
-  {
-    id: 4,
-    brand: "CHAROSA",
-    name: "Charosa Reserve Sauvignon Blanc",
-    price: 950,
-    rating: 4,
-    category: "White Wine",
-    region: "Dindori, India",
-    image: "https://images.unsplash.com/photo-1566754436893-98224ee05be1?w=600&q=80",
   },
   {
     id: 5,
@@ -64,27 +44,6 @@ export const products = [
     image: "https://images.unsplash.com/photo-1547595628-c61a29f496f0?w=600&q=80",
   },
   {
-    id: 7,
-    brand: "BIRA 91",
-    name: "Bira 91 White Ale",
-    price: 220,
-    rating: 4,
-    category: "Beer",
-    region: "India",
-    image: "https://images.unsplash.com/photo-1608270586620-248524c67de9?w=600&q=80",
-  },
-  {
-    id: 8,
-    brand: "GOA BREWING",
-    name: "Goa Brewing Winter Ale",
-    price: 320,
-    rating: 5,
-    category: "Beer",
-    region: "Goa, India",
-    tag: "Seasonal",
-    image: "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=600&q=80",
-  },
-  {
     id: 9,
     brand: "VEDELE",
     name: "Vedele Rosé",
@@ -106,16 +65,6 @@ export const products = [
     image: "https://images.unsplash.com/photo-1584916201218-f4242ceb4809?w=600&q=80",
   },
   {
-    id: 11,
-    brand: "KRSMA",
-    name: "Krsma Sangiovese",
-    price: 2100,
-    rating: 5,
-    category: "Indian Wine",
-    region: "Hampi, India",
-    image: "https://images.unsplash.com/photo-1474722883778-792e7990302f?w=600&q=80",
-  },
-  {
     id: 12,
     brand: "YORK",
     name: "York Arros Merlot",
@@ -127,7 +76,7 @@ export const products = [
   },
 ]
 
-export const bestSellers = [products[0], products[2], products[4], products[9]]
+export const bestSellers = [products[0], products[1], products[2], products[5]]
 
 export const cellarFilters = [
   "RED WINE",

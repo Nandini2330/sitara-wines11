@@ -12,13 +12,6 @@
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930548/sitara_wines/whiskey/Blenders_Pride.png"
     },
     {
-      "id": "whk-02",
-      "name": "Royal Green",
-      "note": "",
-      "subcategory": "Classic Whiskey",
-      "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930579/sitara_wines/whiskey/Royal_Green.png"
-    },
-    {
       "id": "whk-03",
       "name": "Classic Gold",
       "note": "",
@@ -150,6 +143,27 @@
       "note": "Blended Scotch",
       "subcategory": "Classic Whiskey",
       "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930546/sitara_wines/whiskey/Ballantine_s_Finest.png"
+    },
+    {
+      "id": "whk-royal-green",
+      "name": "Royal Green",
+      "note": "Deluxe Blend",
+      "subcategory": "Classic Whiskey",
+      "image": ""
+    },
+    {
+      "id": "whk-bombay",
+      "name": "Bombay",
+      "note": "Special Reserve",
+      "subcategory": "Classic Whiskey",
+      "image": ""
+    },
+    {
+      "id": "whk-monkey-shoulder",
+      "name": "Monkey Shoulder",
+      "note": "Blended Malt Scotch",
+      "subcategory": "Premium Whiskey",
+      "image": ""
     }
   ]
 }

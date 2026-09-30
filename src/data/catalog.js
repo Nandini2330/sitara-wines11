@@ -184,6 +184,46 @@ function getProductProfile(name, catSlug) {
       region = "HARYANA"
       basePrice = 4800
       rating = 4.6
+    } else if (n.includes("monkey shoulder")) {
+      bottleType = "whiskeyLuxury"
+      type = "BLENDED MALT"
+      grape = "BATCH 27"
+      country = "SCOTLAND"
+      region = "SPEYSIDE"
+      basePrice = 4200
+      rating = 4.5
+    } else if (n.includes("glenlivet")) {
+      bottleType = "whiskeyLuxury"
+      type = "SINGLE MALT"
+      grape = "12 YEAR OLD"
+      country = "SCOTLAND"
+      region = "SPEYSIDE"
+      basePrice = 5400
+      rating = 4.6
+    } else if (n.includes("dalmore")) {
+      bottleType = "whiskeyLuxury"
+      type = "SINGLE MALT"
+      grape = "12 YEAR OLD"
+      country = "SCOTLAND"
+      region = "HIGHLANDS"
+      basePrice = 6800
+      rating = 4.7
+    } else if (n.includes("jack daniel")) {
+      bottleType = "whiskey"
+      type = "TENNESSEE"
+      grape = "OLD NO. 7"
+      country = "USA"
+      region = "LYNCHBURG"
+      basePrice = 3200
+      rating = 4.3
+    } else if (n.includes("jim beam")) {
+      bottleType = "whiskey"
+      type = "BOURBON"
+      grape = "WHITE LABEL"
+      country = "USA"
+      region = "KENTUCKY"
+      basePrice = 2100
+      rating = 4.0
     } else if (n.includes("teachers") || n.includes("vat 69") || n.includes("jagermeister")) {
       bottleType = "whiskey"
       type = n.includes("jager") ? "LIQUEUR" : "SCOTCH"
@@ -218,6 +258,14 @@ function getProductProfile(name, catSlug) {
       country = "USA"
       basePrice = 1450
       rating = 4.1
+    } else if (n.includes("romano") || n.includes("romanov")) {
+      country = "INDIA"
+      basePrice = 750
+      rating = 3.9
+    } else if (n.includes("grand master")) {
+      country = "INDIA"
+      basePrice = 650
+      rating = 3.8
     }
     return {
       bottleType: "vodka",
@@ -320,6 +368,7 @@ export function searchProducts(query) {
 }
 
 export const SORTS = {
+  featured: { label: "Featured", fn: null },
   popularity: { label: "Popularity", fn: (a, b) => b.popularity - a.popularity },
   rating: { label: "Vivino Rating", fn: (a, b) => b.rating - a.rating },
   name: { label: "Name: A → Z", fn: (a, b) => a.name.localeCompare(b.name) },

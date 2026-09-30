@@ -12,7 +12,7 @@ export default function ShopPage() {
   const [searchParams] = useSearchParams()
   const activeCat = slug ? getCategory(slug) : null
 
-  const [sort, setSort] = useState("popularity")
+  const [sort, setSort] = useState("featured")
   const [viewMode, setViewMode] = useState("grid") // 'grid' | 'list'
   const [filterOpen, setFilterOpen] = useState(false)
   const [locationOpen, setLocationOpen] = useState(false)
@@ -58,7 +58,9 @@ export default function ShopPage() {
           return true
         })
 
-        prods.sort(SORTS[sort]?.fn || SORTS.popularity.fn)
+        if (SORTS[sort]?.fn) {
+          prods.sort(SORTS[sort].fn)
+        }
 
         return {
           ...cat,

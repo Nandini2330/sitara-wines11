@@ -5,6 +5,41 @@
   "image": "https://res.cloudinary.com/ut5a0auh/image/upload/v1787930590/sitara_wines/Scotch/Signature.png",
   "products": [
     {
+      "id": "scotch-monkey-shoulder",
+      "name": "Monkey Shoulder",
+      "note": "Blended Malt Scotch",
+      "subcategory": "Scotch",
+      "image": ""
+    },
+    {
+      "id": "scotch-the-glenlivet",
+      "name": "The Glenlivet",
+      "note": "Single Malt Scotch",
+      "subcategory": "Scotch",
+      "image": ""
+    },
+    {
+      "id": "scotch-jack-daniels",
+      "name": "Jack Daniel's",
+      "note": "Tennessee Whiskey",
+      "subcategory": "Scotch",
+      "image": ""
+    },
+    {
+      "id": "scotch-dalmore",
+      "name": "Dalmore",
+      "note": "Highland Single Malt",
+      "subcategory": "Scotch",
+      "image": ""
+    },
+    {
+      "id": "scotch-jim-beam",
+      "name": "Jim Beam",
+      "note": "Kentucky Straight Bourbon",
+      "subcategory": "Scotch",
+      "image": ""
+    },
+    {
       "id": "scotch-01",
       "name": "Signature",
       "note": "Rare Blend",

@@ -119,12 +119,7 @@ export default function CatalogCard({ product, onWishlistToggle }) {
               }}
             />
           ) : (
-            <BottleImage
-              type={product.bottleType || "redWine"}
-              name={product.name}
-              year={product.year || "2024"}
-              brand={product.brand}
-            />
+            <div style={{ width: "100%", height: "100%" }} />
           )}
         </div>
       </div>

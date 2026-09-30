@@ -12,7 +12,7 @@ export default function CuratedPicks() {
     catalog.find((c) => c.slug === "wine")?.products[0],
     catalog.find((c) => c.slug === "beer")?.products[0],
     catalog.find((c) => c.slug === "whiskey")?.products[0],
-    catalog.find((c) => c.slug === "scotch")?.products[0],
+    catalog.find((c) => c.slug === "scotch")?.products.find((p) => p.image) || catalog.find((c) => c.slug === "scotch")?.products[0],
     catalog.find((c) => c.slug === "vodka")?.products[0],
     catalog.find((c) => c.slug === "rum")?.products[0],
   ].filter(Boolean)
